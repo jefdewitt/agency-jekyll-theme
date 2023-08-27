@@ -7,15 +7,31 @@
     <body id="page-top" class="index">
 
     {% include header.html %}
-    {% include services.html %}
-    {% include portfolio_grid.html %}
-    {% include about.html %}
-    {% include team.html %}
+    {% include my-story.html %}
+    {% comment %} {% include services.html %} {% endcomment %} 
+    {% include what-i-do-grid.html %}
+    {% include newsletter-signup.html %}
     {% include clients.html %}
     {% include contact.html %}
     {% include footer.html %}
     {% include modals.html %}
     {% include js.html %}
+
+    <script>
+      window.CustomSubstackWidget = {
+          substackUrl: "prostack.substack.com",
+          placeholder: "example@gmail.com",
+          buttonText: "Subscribe",
+          theme: "custom",
+          colors: {
+          primary: "#FED136",
+          input: "#fff",
+          email: "#000",
+          text: "#fff",
+          }
+      };
+  </script>
+  <script src="https://substackapi.com/widget.js" async></script>
 
     </body>
 </html>

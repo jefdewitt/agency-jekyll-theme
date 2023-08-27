@@ -1,0 +1,18 @@
+header {
+    display: flex;
+    flex-direction: column;
+}
+
+@media (min-width: 769px) {
+    header {
+        /* height: 100vh; */
+        flex-direction: row;
+    }
+
+    header div {
+        flex-grow: 1;
+        flex-basis: 0;
+        min-width: 0;
+    }
+  }
+  
