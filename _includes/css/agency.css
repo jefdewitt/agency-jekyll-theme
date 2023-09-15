@@ -269,13 +269,29 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/jef-banner-small-min.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+@media(min-width:768px) {
+    header {
+        text-align: center;
+        color: #fff;
+        background-attachment: scroll;
+        background-image: url('{{ site.baseurl }}/img/jef-banner-min.jpg');
+        background-position: center center;
+        background-repeat: none;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+    }
+    
 }
 
 header .intro-text {

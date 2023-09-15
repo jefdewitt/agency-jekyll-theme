@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: In 18 months, I've grown of following of 42,000 followers across Instagram, Facebook, & TikTok. I make content that matters, ranging from topics like mental health and sobriety, to relationships and communication skills. I speak from my own experience, in the most authentic I way I know how. 
 
 ---

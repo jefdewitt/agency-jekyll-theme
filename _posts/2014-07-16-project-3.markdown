@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: I've had the good fortune of meeting great people who share my passion for helping and healing. I've made a lot of new friends, teamed with coaches, and worked with incredible artists. My words have been translated into multiple languages. If you're interested in working together, hit up my contact form!
 
 ---
