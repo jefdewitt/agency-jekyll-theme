@@ -4,12 +4,12 @@ subtitle: Website Design
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: speaker.jpg
+thumbnail: speaker.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: In 18 months, I've grown of following of 42,000 followers across Instagram, Facebook, & TikTok. I make content that matters, ranging from topics like mental health and sobriety, to relationships and communication skills. I speak from my own experience, in the most authentic I way I know how. 
+description: In 18 months, I've grown of following of 42,000 followers across Instagram, Facebook, & TikTok. I make content that matters, ranging from topics like mental health and sobriety, to relationships and communication skills. I speak from my own experience, in the realest I way I know how. 
 
 ---

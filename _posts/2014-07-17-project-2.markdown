@@ -4,12 +4,12 @@ subtitle: Website Design
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: writer.jpg
+thumbnail: writer.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: I write from the heart. After years of addiction I've learned that unless I am myself, I am no one. I write about what matters to me. I write about building connection and overcoming failure. I write to bridge the gaps between us; because life has taught me that there are so many experiences we share along our own unique paths. 
+description: After years of addiction I've learned that unless I am myself, I am no one. I write from the heart, about what matters most to me. I write about building connection and overcoming failure. I write to bridge the gaps between us; because life has taught me that we share far more than we don't. 
 
 ---
