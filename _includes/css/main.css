@@ -76,3 +76,27 @@ a h4 {
   height: 64px;
   margin: 20px auto;
 }
+
+.svg-small {
+  height: 24px;
+  padding-bottom: 4px;
+}
+
+@media (min-width: 769px) and (max-width: 1000px) {
+  .navbar-nav.navbar-right {
+    padding-top: 10px;
+  }
+  .nav>li>a {
+    padding: 10px 10px;
+  }
+}
+
+.navbar-nav.navbar-right .svg-small {
+  height: 18px;
+}
+
+@media (max-width: 768px) {
+  .navbar-nav.navbar-right {
+    background: #555;
+  }
+}
