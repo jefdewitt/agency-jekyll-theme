@@ -2,7 +2,7 @@
  {% for post in site.posts %}
     <div class="portfolio-modal modal fade" id="portfolioModal{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
+            <div onclick="clearUrl()" class="close-modal" data-dismiss="modal">
                 <div class="lr">
                     <div class="rl">
                     </div>
@@ -30,11 +30,17 @@
                                     </strong>
                                 </li>
                             </ul> -->
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                            <button onclick="clearUrl()" type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+        <script>
+            function clearUrl(){
+                console.log("heeeelp meeeeee");
+                window.location.hash = '';
+            };
+        </script>
     </div>
 {% endfor %}
