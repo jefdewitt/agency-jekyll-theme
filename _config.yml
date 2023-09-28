@@ -1,10 +1,9 @@
-url: https://y7kim.github.io
-baseurl: ""
-
 # Site settings
 title: Jef DeWitt
 email: 'f/xzbyqlnz' # obtained from FormSpree
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+name: 'jefdewitt.com'
+description: 'jefdewitt.com is my personal window to the Internets.'
+baseurl: ''
 
 
 # Team names, titles and social links
