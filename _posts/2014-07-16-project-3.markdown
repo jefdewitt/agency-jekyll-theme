@@ -4,8 +4,8 @@ subtitle: Website Design
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: collaborator.jpg
-thumbnail: collaborator.jpg
+img: collaborator-alt.jpg
+thumbnail: collaborator-alt.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
