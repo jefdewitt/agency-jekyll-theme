@@ -3,20 +3,24 @@
 
   {% include head.html %}
 
-
     <body id="page-top" class="index">
 
     {% include nav.html %}  
-    {% include header.html %}
-    {% include intro.html %}
-    {% include my-story.html %}
-    {% comment %} {% include services.html %} {% endcomment %} 
-    {% include what-i-do-grid.html %}
-    {% include newsletter-signup.html %}
-    {% include clients.html %}
-    {% include contact.html %}
-    {% include footer.html %}
-    {% include modals.html %}
+    {% if page.url == "/" %}
+      {% include header.html %}
+      {% include embed-social.html %}
+      {% include social-media-platforms.html %}
+      {% comment %} {% include my-story.html %} {% endcomment %} 
+      {% include what-i-do-grid.html %}
+      {% include newsletter-signup.html %}
+      {% include footer.html %}
+    {% endif %}
+    {% if page.url == "/my-story.html" %} 
+      {% include my-story.html %} 
+    {% endif %}
+    {% if page.url == "/contact.html" %} 
+      {% include contact.html %} 
+    {% endif %}
     {% include js.html %}
 
     <script>
