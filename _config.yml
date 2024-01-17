@@ -46,7 +46,9 @@ social:
   - title: instagram
     url: https://www.instagram.com/buildthepositivity/
   - title: facebook
-    url: https://www.facebook.com/buildingthepositivity
+    url: https://www.facebook.com/buildthepositivity
+  - title: youtube
+    url: https://www.youtube.com/channel/UCD-XqAAkTzpwfVZa6i4sudg
 
 # Postal address (add as many lines as necessary)
 address:
